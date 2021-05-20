@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\jefer\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\jefer\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_ServlessBootcamp.-857498762.00" t="ExcludeRecursive" />
+    <e p="C:\Users\jefer\source\repos\pessoal\bootcamp\servless" t="IncludeFlat">
+      <e p="Bootcamp.Servless.API" t="IncludeRecursive">
+        <e p=".dockerignore" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Bootcamp.Servless.API.csproj" t="IncludeRecursive" />
+        <e p="Config" t="Include">
+          <e p="AmazonWebServiceConfiguration.cs" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="FileController.cs" t="Include" />
+        </e>
+        <e p="Dockerfile" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Bootcamp.Servless.API.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="Bootcamp.Servless.Services" t="IncludeRecursive">
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Bootcamp.Servless.Services.csproj" t="IncludeRecursive" />
+        <e p="Implements" t="Include">
+          <e p="FilesService.cs" t="Include" />
+        </e>
+        <e p="Interfaces" t="Include">
+          <e p="IFilesService.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="S3FilesDTO.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Bootcamp.Servless.Services.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Utils" t="Include">
+          <e p="FileExtensionsUtils.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ServlessBootcamp.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

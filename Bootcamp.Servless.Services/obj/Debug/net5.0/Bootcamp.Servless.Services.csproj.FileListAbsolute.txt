@@ -1,0 +1,12 @@
+C:\Users\jefer\source\repos\pessoal\bootcamp\servless\Bootcamp.Servless.Services\bin\Debug\net5.0\Bootcamp.Servless.Services.deps.json
+C:\Users\jefer\source\repos\pessoal\bootcamp\servless\Bootcamp.Servless.Services\bin\Debug\net5.0\Bootcamp.Servless.Services.dll
+C:\Users\jefer\source\repos\pessoal\bootcamp\servless\Bootcamp.Servless.Services\bin\Debug\net5.0\ref\Bootcamp.Servless.Services.dll
+C:\Users\jefer\source\repos\pessoal\bootcamp\servless\Bootcamp.Servless.Services\bin\Debug\net5.0\Bootcamp.Servless.Services.pdb
+C:\Users\jefer\source\repos\pessoal\bootcamp\servless\Bootcamp.Servless.Services\obj\Debug\net5.0\Bootcamp.Servless.Services.csprojAssemblyReference.cache
+C:\Users\jefer\source\repos\pessoal\bootcamp\servless\Bootcamp.Servless.Services\obj\Debug\net5.0\Bootcamp.Servless.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefer\source\repos\pessoal\bootcamp\servless\Bootcamp.Servless.Services\obj\Debug\net5.0\Bootcamp.Servless.Services.AssemblyInfoInputs.cache
+C:\Users\jefer\source\repos\pessoal\bootcamp\servless\Bootcamp.Servless.Services\obj\Debug\net5.0\Bootcamp.Servless.Services.AssemblyInfo.cs
+C:\Users\jefer\source\repos\pessoal\bootcamp\servless\Bootcamp.Servless.Services\obj\Debug\net5.0\Bootcamp.Servless.Services.csproj.CoreCompileInputs.cache
+C:\Users\jefer\source\repos\pessoal\bootcamp\servless\Bootcamp.Servless.Services\obj\Debug\net5.0\Bootcamp.Servless.Services.dll
+C:\Users\jefer\source\repos\pessoal\bootcamp\servless\Bootcamp.Servless.Services\obj\Debug\net5.0\ref\Bootcamp.Servless.Services.dll
+C:\Users\jefer\source\repos\pessoal\bootcamp\servless\Bootcamp.Servless.Services\obj\Debug\net5.0\Bootcamp.Servless.Services.pdb
